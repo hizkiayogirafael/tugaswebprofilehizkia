@@ -406,7 +406,7 @@ nav .menu li:hover {
 
 /* Contact */
 .contact {
-    background-color: #191919;
+    background-image: url('../img/footer.png');
     height: 200px;
 }
 
